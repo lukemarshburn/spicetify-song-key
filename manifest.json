@@ -1,0 +1,11 @@
+{
+  "name": "Song Key",
+  "description": "Shows the current song's musical key, Camelot code and BPM in the now-playing bar. Click to toggle Camelot notation.",
+  "preview": "preview.png",
+  "main": "songKey.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "lukemarshburn", "url": "https://github.com/lukemarshburn" }
+  ],
+  "tags": ["key", "camelot", "bpm", "dj"]
+}
