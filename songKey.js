@@ -1,5 +1,5 @@
 // NAME: Song Key
-// AUTHOR: you
+// AUTHOR: lukemarshburn
 // DESCRIPTION: Shows the musical key (and Camelot code / BPM) of the current song under the track info in the now-playing bar. Click the badge to switch between standard and Camelot notation.
 
 (function songKey() {
